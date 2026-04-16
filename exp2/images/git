@@ -1,0 +1,6 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      682     633     682       3564  cons1     197609 11:59:28 /usr/bin/PS
+      497       1     497      12200  cons0     197609 11:41:42 /usr/bin/bash
+      632       1     631      12032  cons0     197609 11:52:54 /usr/bin/vim
+      633       1     633      11156  cons1     197609 11:58:56 /usr/bin/bash
+      631     497     631       8812  cons0     197609 11:52:54 /mingw64/bin/git
